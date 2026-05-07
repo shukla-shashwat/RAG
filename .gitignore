@@ -89,6 +89,8 @@ poetry.lock
 venv/
 .env/
 ,env/**
+**/.env*
+.env
 .env*
 !.env.example
 ENV/
