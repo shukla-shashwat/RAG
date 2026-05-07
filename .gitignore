@@ -88,7 +88,9 @@ poetry.lock
 # virtualenv
 venv/
 .env/
-env/**
+,env/**
+.env*
+!.env.example
 ENV/
 env.bak/
 venv.bak/
