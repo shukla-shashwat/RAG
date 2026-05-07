@@ -1,0 +1,14 @@
+Machine Learning Basics
+
+Machine learning is a branch of artificial intelligence that allows systems to learn 
+and improve from data without being explicitly programmed. It focuses on building 
+models that can analyze information, identify patterns, and make decisions or 
+predictions based on experience.
+
+Types of Machine Learning:
+1. Supervised Learning: Learning using labeled data.
+2. Unsupervised Learning: Discovering patterns in unlabeled data.
+3. Reinforcement Learning: Learning through rewards and penalties.
+
+Common applications include image recognition, speech processing, fraud detection, 
+medical diagnosis, and recommendation systems.

@@ -1,0 +1,17 @@
+Python Basics
+
+Python is a high level, interpreted programming language known for its clear syntax
+and readability. It supports multiple programming paradigms such as procedural,
+object oriented, and functional programming. Python is widely used for rapid
+development, scripting, and building production grade applications.
+
+Key Features of Python:
+1. Simple and readable syntax that is easy to learn.
+2. Large standard library for handling files, networking, data processing, and more.
+3. Cross platform support, runs on Windows, macOS, and Linux.
+4. Huge ecosystem of third party libraries for web development, data science,
+   machine learning, automation, and more.
+5. Interactive shell for quick testing and experimentation.
+
+Common uses include web development, data analysis, machine learning, automation,
+scripting, API development, and scientific computing.
